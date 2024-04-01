@@ -52,7 +52,16 @@ plt.plot(X_train,lr.predict(X_train),color='red')
 ```
 
 ## Output:
+## Head:
+![image](https://github.com/ganeshshanmugavel27/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122046208/39763b93-87fa-4544-8499-6a559b353bdc)
+## Graph of Plotted Data:
+![image](https://github.com/ganeshshanmugavel27/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122046208/019b07df-4c91-4bea-8c4a-d07d45a6ad81)
+## Trained Data:
+![image](https://github.com/ganeshshanmugavel27/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122046208/dd227260-3376-4d1e-aa7b-e892729e3a84)
+## Line of Regression:
 ![ML EX2](https://github.com/ganeshshanmugavel27/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122046208/4022f87b-2610-4da5-9ded-dcc77d482060)
+## Coefficient and Intercept value:
+![image](https://github.com/ganeshshanmugavel27/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122046208/d13870c3-7b27-4531-b228-c8870955338d)
 
 
 
